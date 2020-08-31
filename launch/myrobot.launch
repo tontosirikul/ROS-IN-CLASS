@@ -1,4 +1,4 @@
 <launch>
 <node name="turtle1" pkg="turtlesim" type="turtlesim_node" />
-<node name="turtle_control" pkg="ros_in_class" type="assignment1_square.py"/>
+<node name="turtle_control" pkg="ros_in_class" type="assignment2_feedback.py"/>
 </launch>
